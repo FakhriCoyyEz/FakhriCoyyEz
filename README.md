@@ -1,4 +1,4 @@
-#FakhriCoyyEz
+FakhriCoyyEz
 
 
 [![](https://raw.githubusercontent.com/FakhriCoyyEz/FakhriCoyyEz/master/profile-summary-card-output/react/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
